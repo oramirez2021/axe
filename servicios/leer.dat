@@ -1,0 +1,11 @@
+sobre los parametros en los archivos bat:
+
+%1.-usuario.
+%2.-password.
+%3.-ip.
+%4.-ruta puente (plink, psexec).
+%5.-nombre pc.
+%6.-ruta comandos subir y bajar servicios.
+%7.-comando subir o bajar./comando para leer archivo plano en servidor.
+%8.-ruta monitor.(Status)
+%9.-comando monitor.(Status).

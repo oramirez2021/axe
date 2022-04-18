@@ -1,2 +1,0 @@
-# axe
-Remotely shutdown and relaunch differents Unix/Linux and Windows components or services from a single windows. The goal is to quick even in seconds we can stop an relaunch critical services when affectations were registered from Customer Services Centers when they had their systems colapsed. And pritty quick they have their systems restored to continue with daily work. Tech Skills required: Java, Netbeans IDE, ssh, plink, putty.

@@ -1,2 +1,2 @@
-del c:\servicios\uss\%1
+del %2\uss\%1
 exit

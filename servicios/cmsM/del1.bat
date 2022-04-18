@@ -1,2 +1,2 @@
-del c:\servicios\cmsM\%1
+del %2\cmsM\%1
 exit

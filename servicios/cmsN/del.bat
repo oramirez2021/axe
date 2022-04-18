@@ -1,2 +1,2 @@
-del c:\servicios\cmsN\*.txt
+del %1\cmsN\*.txt
 exit

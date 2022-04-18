@@ -1,2 +1,3 @@
-del c:\servicios\oas\*.txt
+del %1\*%2.txt
+pause
 exit

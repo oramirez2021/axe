@@ -1,5 +1,4 @@
 @echo off
-set path=C:\Program Files\pstools
-psexec.exe \\130.2.120.11 -u Administrator -p Password.2013 c:\cmsTmp\elimina.bat
-
+set path=%1
+psexec.exe \\130.2.120.11 -u Administrator -p Password.2014 c:\cmsTmp\elimina.bat
 exit

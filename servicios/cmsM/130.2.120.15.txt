@@ -1,2 +1,2 @@
-1
-"se subio todo satisfactoriamente"
+0
+"no se subio todo, por favor bajar cms y volver a subir"

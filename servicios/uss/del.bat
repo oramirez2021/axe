@@ -1,2 +1,2 @@
-del c:\servicios\uss\*.txt
+del %1\uss\*%2.txt
 exit
